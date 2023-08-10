@@ -1,0 +1,11 @@
+.user_box {
+  font-size: 1rem;
+  width: 60%;
+  margin: auto;
+  background-color: cornflowerblue;
+  color: #fff;
+  margin-top: 5px;
+  padding: 1rem;
+  border-radius: 1rem;
+  text-align: left;
+}
